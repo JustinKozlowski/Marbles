@@ -18,6 +18,7 @@
   "homepage": "https://github.com/JustinKozlowski/Marbles#readme",
   "dependencies": {
     "express": "^4.17.3",
+    "mersenne-twister": "^1.1.0",
     "request": "^2.88.2"
   }
 }
