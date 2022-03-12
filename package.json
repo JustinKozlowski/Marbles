@@ -1,0 +1,23 @@
+{
+  "name": "marbles",
+  "version": "1.0.0",
+  "description": "A web based marbles racing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinKozlowski/Marbles.git"
+  },
+  "author": "Justin Kozlowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinKozlowski/Marbles/issues"
+  },
+  "homepage": "https://github.com/JustinKozlowski/Marbles#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  }
+}
